@@ -10,4 +10,5 @@ Ao longo dessa fase adquirimos conhecimentos e tecnicas para iniciar um projeto 
 
 </br> <b> Docs: </b>
 </br> <a href= "https://github.com/brunoesm07/Projeto_Fintech_Fase1_ADS-FIAP/files/9535647/Documento.Visao.pdf">Documento Visão (Elevator Pitch)</a>
+User Story Map
 

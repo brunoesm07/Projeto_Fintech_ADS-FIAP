@@ -8,7 +8,21 @@ Projeto elaborado ao longo do primeiro periodo de Analise e Desenvolvimento de S
 <h3>Fase 1 - Development Environment</h3>
 Ao longo dessa fase adquirimos conhecimentos e tecnicas para iniciar um projeto agil de desenvolvimento de uma app. Estudamos os primeiros passos na construcao de um software, praticas ageis como SCRUM e tecnicas de levantamento de requisitos. Tambem fomos desafiados a elaborar o Documento Visão, a partir do Modelo de Moore (Elevator Pitch), que dara origem ao Product Backlog do nosso projeto; e desenvolver nosso primeiro draft de User Story Mapping. 
 
+</br>As atividades seguintes serao dispostas em ciclos de duas a quatro semanas (Sprints). Ao final de cada Sprint entregaremos algo ao nosso cliente, representado pelo PO (nesse caso, o tutor da turma).
+
+Ainda na Fase 1, o primeiro ciclo sera de quatro semanas e a primeira atividade é desenvolver o Termo de Abertura do Projeto.
+
+O objetivo secundario sera construir a infraestrutura necessaria para que o desenvolvedor possa elaborar todo o restante. Dessa forma, criei uma maquina virtual Oracle Virtualbox para trabalhar a partir dela.
+
+
 </br> <b> Docs: </b>
 </br> <a href= "https://github.com/brunoesm07/Projeto_Fintech_Fase1_ADS-FIAP/files/9535647/Documento.Visao.pdf">Documento Visão (Elevator Pitch)</a>
 </br>User Story Map
+</br>Termo de Abertura - Formulario de Definicao da Infraestrutura do Projeto
+
+
+</br> <b>Links: </b>
+</br> Maquina Virtual Oracle Virtualbox (http://virtualbox.org)
+
+
 

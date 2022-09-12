@@ -12,7 +12,7 @@ Ao longo dessa fase adquirimos conhecimentos e tecnicas para iniciar um projeto 
 
 Ainda na Fase 1, o primeiro ciclo sera de quatro semanas e a primeira atividade é desenvolver o Termo de Abertura do Projeto.
 
-O objetivo secundario sera construir a infraestrutura necessaria para que o desenvolvedor possa elaborar todo o restante. Dessa forma, criei uma maquina virtual Oracle Virtualbox para trabalhar a partir dela.
+O objetivo secundario sera construir a infraestrutura necessaria para que o desenvolvedor (eu | aluno) possa elaborar todo o restante. Dessa forma, criei uma virtualização utilizando Docker para trabalhar a partir dela.
 
 
 </br> <b> Docs: </b>
@@ -22,7 +22,8 @@ O objetivo secundario sera construir a infraestrutura necessaria para que o dese
 
 
 </br> <b>Links: </b>
-</br> Maquina Virtual Oracle Virtualbox (http://virtualbox.org)
+</br><a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40" /> </a>
+</br> Docker Desktop (https://www.docker.com/)
 
 
 

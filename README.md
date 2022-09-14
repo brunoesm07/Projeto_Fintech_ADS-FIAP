@@ -10,23 +10,23 @@ Projeto elaborado ao longo do primeiro periodo de Análise e Desenvolvimento de 
 <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> </a>
 
 <h3>Fase 1 - Development Environment</h3>
-Ao longo dessa fase adquirimos conhecimentos e técnicas para iniciar um projeto ágil de desenvolvimento de uma app. Estudamos os primeiros passos na construção de um software, praticas ageis como SCRUM e tecnicas de levantamento de requisitos. Tambem fomos desafiados a elaborar o Documento Visão, a partir do Modelo de Moore (Elevator Pitch), que dará origem ao Product Backlog do nosso projeto; e desenvolver nosso primeiro draft de User Story Mapping. 
+<p>Ao longo dessa fase adquirimos conhecimentos e técnicas para iniciar um projeto ágil de desenvolvimento de uma app. Estudamos os primeiros passos na construção de um software, praticas ageis como SCRUM e tecnicas de levantamento de requisitos. Tambem fomos desafiados a elaborar o Documento Visão, a partir do Modelo de Moore (Elevator Pitch), que dará origem ao Product Backlog do nosso projeto; e desenvolver nosso primeiro draft de User Story Mapping. </p>
 
-</br>As atividades seguintes serão dispostas em ciclos de duas a quatro semanas (Sprints). Ao final de cada Sprint entregaremos algo ao nosso cliente, representado pelo PO (nesse caso, o tutor da turma).
+<p>Ainda na Fase 1, desenvolvemos o Termo de Abertura do Projeto e construimos a infraestrutura necessaria para que o desenvolvedor (eu | aluno) possa elaborar todo o restante. Dessa forma, instalei os seguintes softwares: Java SDK, Eclipse, Apache Tomcat, Oracle SQL Data Modeler e SQL Developer, Python, Postman, Visual Studio Code e NodeJS</p>
 
-Ainda na Fase 1, o primeiro ciclo será de quatro semanas e a primeira atividade é desenvolver o Termo de Abertura do Projeto.
+<p>As atividades seguintes serão dispostas em ciclos de duas a quatro semanas (Sprints). Ao final de cada Sprint entregaremos algo ao nosso cliente, representado pelo PO (nesse caso, o tutor da turma).</p>
+    
+<b> Docs: </b>
+<ul>
+<li><a href= "https://github.com/brunoesm07/Projeto_Fintech_Fase1_ADS-FIAP/files/9535647/Documento.Visao.pdf">Documento Visão (Elevator Pitch)</a></li>
+<li>User Story Map</li>
+<li>Termo de Abertura - Formulario de Definicao da Infraestrutura do Projeto</li>
+</ul>
 
-O objetivo secundário foi construir a infraestrutura necessaria para que o desenvolvedor (eu | aluno) possa elaborar todo o restante. Dessa forma, instalei os seguintes softwares: Java SDK, Eclipse, Apache Tomcat, Oracle SQL Data Modeler e SQL Developer, Python, Postman, Visual Studio Code e NodeJS
+<h3>Fase 2 - Prototyping</h3>
 
+<p>Ao longo da Fase 2 avançaremos com a documentação do projeto do sistema. Aprenderemos mais sobre gerenciamento de tempo e custos e construiremos o protótipo do sistema Fintech, na forma de <i>wireframes</i> ou desenhos para definir como serão as telas.</p>
 
-          
-
-</br> <b> Docs: </b>
-</br> <a href= "https://github.com/brunoesm07/Projeto_Fintech_Fase1_ADS-FIAP/files/9535647/Documento.Visao.pdf">Documento Visão (Elevator Pitch)</a>
-</br>User Story Map
-</br>Termo de Abertura - Formulario de Definicao da Infraestrutura do Projeto
-
-</br> <h3>Fase 2 - Prototyping</h3>
 
 
 

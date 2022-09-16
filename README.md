@@ -27,6 +27,8 @@ Projeto elaborado ao longo do primeiro periodo de Análise e Desenvolvimento de 
 
 <p>Ao longo da Fase 2 avançaremos com a documentação do projeto do sistema. Aprenderemos mais sobre gerenciamento de tempo e custos e construiremos o protótipo do sistema Fintech, na forma de <i>wireframes</i> ou desenhos para definir como serão as telas.</p>
 
+<p>Nessa fase iniciamos os estudos com a linguagem python e fomos desafiados a resolver diversos problemas reais utilizando a linguagem. Esses desafios e as resoluções elaboradas por mim podem ser visualizadas na pasta <a href="https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/tree/main/Exerc%C3%ADcios%20em%20Python-FIAP">Exercícios em Python-FIAP.</a> </p>
+
 
 
 

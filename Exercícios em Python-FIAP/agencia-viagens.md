@@ -74,5 +74,6 @@ Viajar é bom demais!
   </tr>
  </table>
  
+ <p>O programa deverá exibir o valor BRUTO da viagem (o mesmo que foi digitado), o DESCONTO, o VALOR LIQUIDO da viagem (valor bruto menos o desconto) e o VALOR MÉDIO por viajante.</p>
 
  > <b><a href="https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/blob/main/Exerc%C3%ADcios%20em%20Python-FIAP/Agencia-Viagens.py"> Resolução</a></b>

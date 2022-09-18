@@ -18,8 +18,8 @@ Projeto elaborado ao longo do primeiro periodo de Análise e Desenvolvimento de 
     
 <b> Docs: </b>
 <ul>
-<li><a href= "https://github.com/brunoesm07/Projeto_Fintech_Fase1_ADS-FIAP/files/9535647/Documento.Visao.pdf">Documento Visão (Elevator Pitch)</a></li>
-<li>User Story Map</li>
+<li><a href= "https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/blob/main/Atividade%20-%20Elaborando%20o%20Documento%20Vis%C3%A3o%20do%20Sistema%20%E2%80%93%20FINTECH.pdf">Documento Visão (Elevator Pitch)</a></li>
+<li><a href= "https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/blob/main/Atividade%20-%20User%20Story%20Map.pdf">User Story Map</a></li>
 <li>Termo de Abertura - Formulario de Definicao da Infraestrutura do Projeto</li>
 </ul>
 

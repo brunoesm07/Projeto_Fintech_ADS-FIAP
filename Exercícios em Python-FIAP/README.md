@@ -26,10 +26,14 @@ Abaixo estão os links para todos os enunciados e suas respectivas soluções el
 <li><a href="https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/blob/main/Exerc%C3%ADcios%20em%20Python-FIAP/Vota%C3%A7%C3%A3o.py">Resolução</a></li>
 </ul>
 
-
-
-<h4></h4>
+<h4>Controle de Gastos</h4>
 <ul>
 <li><a href=""></a></li>
+<li><a href="https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/blob/main/Exerc%C3%ADcios%20em%20Python-FIAP/Controle-gastos.py">Resolução</a></li>
+</ul>
+
+<h4>Fibonacci</h4>
+<ul>
 <li><a href=""></a></li>
+<li><a href="https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/blob/main/Exerc%C3%ADcios%20em%20Python-FIAP/Fibonacci.py">Resolução</a></li>
 </ul>

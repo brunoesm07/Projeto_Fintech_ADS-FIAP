@@ -24,3 +24,5 @@ Sua tarefa é criar um algoritmo que receba o tipo de assinatura do cliente, o f
     <td>5%<td>
   </tr>
 </table>
+
+> <b><a href="https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/blob/main/Exerc%C3%ADcios%20em%20Python-FIAP/RM96757_EX01.py"> Resolução </a></b>

@@ -29,7 +29,7 @@ Projeto elaborado ao longo do primeiro periodo de Análise e Desenvolvimento de 
 
 <p>Nessa fase iniciamos os estudos com a linguagem python e fomos desafiados a resolver diversos problemas reais utilizando a linguagem. Alguns dsses desafios e as resoluções elaboradas por mim podem ser visualizadas na pasta <a href="https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/tree/main/Exerc%C3%ADcios%20em%20Python-FIAP">Exercícios em Python-FIAP.</a> </p>
 
-<p>Para prosseguir com o desenvolvimento do nosso sistema, começamos a compreender o UML, a linguagem visual para modelagem de sistemas, a partir do Diagrama de Casos de Uso. Além da modelagem gráfica, entendemos a importância da descrição textual chamada <a href="">documentação de casos de uso</a>.</p>
+<p>Para prosseguir com o desenvolvimento do nosso sistema, começamos a compreender o UML, a linguagem visual para modelagem de sistemas, a partir do Diagrama de Casos de Uso. Além da modelagem gráfica, entendemos a importância da descrição textual chamada <a href="https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/blob/main/Documenta%C3%A7%C3%A3o%20de%20Casos%20de%20Uso%20-%20ex.01.pdf">documentação de casos de uso</a>.</p>
 
 
 

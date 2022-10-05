@@ -31,9 +31,13 @@ Projeto elaborado ao longo do primeiro periodo de Análise e Desenvolvimento de 
 
 <p>Para prosseguir com o desenvolvimento do nosso sistema, começamos a compreender o UML, a linguagem visual para modelagem de sistemas, a partir do Diagrama de Casos de Uso. Além da modelagem gráfica, entendemos a importância da descrição textual chamada <a href="https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/blob/main/Documenta%C3%A7%C3%A3o%20de%20Casos%20de%20Uso%20-%20ex.01.pdf">documentação de casos de uso</a>.</p>
 
-<p>Na sequência aprendemos conceitos importantes de UX</p>
+<p>Na sequência aprendemos conceitos importantes de UX e desenvolvemos as primeiras telas da Fintech utilizando a ferramenta de design <a href="https://www.figma.com/">Figma</a></p>
 
-
+<b> Docs: </b>
+<ul>
+<li>Wireframes</li>
+<li>Prototype</li>
+</ul>
 
 
 

@@ -35,8 +35,8 @@ Projeto elaborado ao longo do primeiro periodo de Análise e Desenvolvimento de 
 
 <b> Docs: </b>
 <ul>
-<li>Wireframes</li>
-<li>Prototype</li>
+<li><a href="https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/blob/main/Wireframes%20Fintech%20RM96757.pdf">Wireframes</a></li>
+<li><a href="https://www.figma.com/proto/kEolXTRo4BhvPDdAZy4FBL/Wireframes-Fintech?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2">Prototype</a></li>
 </ul>
 
 

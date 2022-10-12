@@ -39,6 +39,6 @@ Projeto elaborado ao longo do primeiro periodo de Análise e Desenvolvimento de 
 <li><a href="https://www.figma.com/proto/kEolXTRo4BhvPDdAZy4FBL/Wireframes-Fintech?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2">Prototype</a></li>
 </ul>
 
-
+<h3>Fase 3 - Modeling</h3>
 
 

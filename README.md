@@ -41,5 +41,5 @@ Projeto elaborado ao longo do primeiro periodo de Análise e Desenvolvimento de 
 
 <h3>Fase 3 - Modeling</h3>
 
-<p>Modelagem e estruturação de Banco de Dados: Modelo de entidade de relacionamento, Agregação, Normalização, Modelo Físico</p>
-<p>Manipulação de dicionários e arquivos com Python</p>
+<p>Modelagem e estruturação de Banco de Dados: Modelo de Entidade de Relacionamento, Agregação, Normalização, Modelo Físico. Entendemos como utilizar um banco de dados, seus métodos e boa práticas de como armazenar os dados.</p>
+<p>Manipulação de dicionários e arquivos com Python. Ao longo dessa fase continuamos desenvolvendo habilidades em lógica de programação com a linguagem Python.</p>

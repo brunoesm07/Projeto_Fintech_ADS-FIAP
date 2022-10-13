@@ -41,4 +41,5 @@ Projeto elaborado ao longo do primeiro periodo de Análise e Desenvolvimento de 
 
 <h3>Fase 3 - Modeling</h3>
 
-
+Modelagem e estruturação de Banco de Dados: Modelo de entidade de relacionamento, Agregação, Normalização, Modelo Físico
+Manipulação de dicionários e arquivos com Python

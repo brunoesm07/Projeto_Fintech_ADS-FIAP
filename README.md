@@ -45,3 +45,9 @@ Projeto individual elaborado por mim ao longo do primeiro periodo de Análise e 
 
 <p>Modelagem e estruturação de Banco de Dados: Modelo de Entidade de Relacionamento, Agregação, Normalização, Modelo Físico. Entendemos como utilizar um banco de dados, seus métodos e boa práticas de como armazenar os dados.</p>
 <p>Manipulação de dicionários e arquivos com Python. Ao longo dessa fase continuamos desenvolvendo habilidades em lógica de programação com a linguagem Python.</p>
+
+<b> Docs: </b>
+<ul>
+<li><a href="https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/blob/main/modeloLogico.png">Modelo Logico</a></li>
+<li><a href="https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/blob/main/Modelo_Relacional.png">Modelo Relacional</a></li>
+</ul>

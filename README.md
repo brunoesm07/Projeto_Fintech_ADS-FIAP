@@ -5,11 +5,15 @@
 Projeto individual elaborado por mim ao longo do primeiro periodo de Análise e Desenvolvimento de Sistemas na Faculdade FIAP. </br> </br>
 ![Badge Projeto Academico](https://img.shields.io/static/v1?label=projeto&message=academico&color=brightgreen) ![Badge Inicio](https://img.shields.io/static/v1?label=inicio&message=agosto2022&color=yellowgreen) ![Badge Status](https://img.shields.io/static/v1?label=status&message=em%20desenvolvimento&color=yellow)
 
-</br><a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> </a>
-<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> </a>
-<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/> </a>
-<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> </a>
-<a href="https://www.java.com/pt-BR/download/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /> </a>
+</br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> 
+<a href="https://www.java.com/pt-BR/download/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
 
 <h3>Fase 1 - Development Environment</h3>
 <p>Ao longo dessa fase adquirimos conhecimentos e técnicas para iniciar um projeto ágil de desenvolvimento de uma app. Estudamos os primeiros passos na construção de um software, praticas ageis como SCRUM e tecnicas de levantamento de requisitos. Tambem fomos desafiados a elaborar o Documento Visão, a partir do Modelo de Moore (Elevator Pitch), que dará origem ao Product Backlog do nosso projeto; e desenvolver nosso primeiro draft de User Story Mapping. </p>
@@ -51,3 +55,9 @@ Projeto individual elaborado por mim ao longo do primeiro periodo de Análise e 
 <li><a href="https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/blob/main/modeloLogico.png">Modelo Logico</a></li>
 <li><a href="https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/blob/main/Modelo_Relacional.png">Modelo Relacional</a></li>
 </ul>
+
+<h3>Fase 4 - View</h3>
+
+O grande objetivo dessa fase é abordar a visão de sistema, ou seja, a camada de programação mais proxima da interface do sistema com o usuário. Trabalhamos também com a conexão com os usuários através de chatbots.
+
+Nessa fase trabalhamos com a tríade base do desenvolvimento Web: HTML5, CSS3 e Javascript. Também utilizamos os comandos do Git para controle de versão.

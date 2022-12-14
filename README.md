@@ -25,8 +25,8 @@ Projeto individual elaborado por mim ao longo do primeiro periodo de Análise e 
     
 <b> Docs: </b>
 <ul>
-<li><a href= "https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/blob/main/Atividade%20-%20Elaborando%20o%20Documento%20Vis%C3%A3o%20do%20Sistema%20%E2%80%93%20FINTECH.pdf">Documento Visão (Elevator Pitch)</a></li>
-<li><a href= "https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/blob/main/Atividade%20-%20User%20Story%20Map.pdf">User Story Map</a></li>
+<li><a href= "https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/blob/main/pdf/Atividade%20-%20Elaborando%20o%20Documento%20Vis%C3%A3o%20do%20Sistema%20%E2%80%93%20FINTECH.pdf">Documento Visão (Elevator Pitch)</a></li>
+<li><a href= "https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/blob/main/pdf/Atividade%20-%20User%20Story%20Map.pdf">User Story Map</a></li>
 <li>Termo de Abertura - Formulario de Definicao da Infraestrutura do Projeto</li>
 </ul>
 
@@ -42,7 +42,7 @@ Projeto individual elaborado por mim ao longo do primeiro periodo de Análise e 
 
 <b> Docs: </b>
 <ul>
-<li><a href="https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/blob/main/Wireframes%20Fintech%20RM96757.pdf">Wireframes</a></li>
+<li><a href="https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/blob/main/pdf/Wireframes%20Fintech%20RM96757.pdf">Wireframes</a></li>
 <li><a href="https://www.figma.com/proto/kEolXTRo4BhvPDdAZy4FBL/Wireframes-Fintech?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2">Prototype</a></li>
 </ul>
 
@@ -53,12 +53,17 @@ Projeto individual elaborado por mim ao longo do primeiro periodo de Análise e 
 
 <b> Docs: </b>
 <ul>
-<li><a href="https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/blob/main/modeloLogico.png">Modelo Logico</a></li>
-<li><a href="https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/blob/main/Modelo_Relacional.png">Modelo Relacional</a></li>
+<li><a href="https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/blob/main/Modelagem%20BD%20Fintech/modeloLogico.png">Modelo Logico</a></li>
+<li><a href="https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/blob/main/Modelagem%20BD%20Fintech/Modelo_Relacional.png">Modelo Relacional</a></li>
+<li><a href="https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/blob/main/Modelagem%20BD%20Fintech/Scripts%20SQL.ddl">Scripts SQL</a></li>
 </ul>
 
 <h3>Fase 4 - View</h3>
 
-O grande objetivo dessa fase é abordar a visão de sistema, ou seja, a camada de programação mais proxima da interface do sistema com o usuário. Trabalhamos também com a conexão com os usuários através de chatbots.
+O grande objetivo dessa fase é abordar a visão de sistema, ou seja, a camada de programação mais proxima da interface do sistema com o usuário. Trabalhamos também com a conexão com os usuários através de chatbots utilizando IBM Watson.
 
-Nessa fase trabalhamos com a tríade base do desenvolvimento Web: HTML5, CSS3 e Javascript. Também utilizamos os comandos do Git para controle de versão.
+Nessa fase trabalhamos com a tríade base do desenvolvimento Web: HTML5, CSS3 (com Bootstrap) e Javascript. Também utilizamos os comandos do Git para controle de versão.
+
+<ul>
+<li><a href="https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/tree/main/Frontend">Frontend</a></li>
+</ul>

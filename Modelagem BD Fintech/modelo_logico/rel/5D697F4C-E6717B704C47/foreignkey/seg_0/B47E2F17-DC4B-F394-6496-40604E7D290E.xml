@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="B47E2F17-DC4B-F394-6496-40604E7D290E" containerWithKeyObject="9BEBB574-865E-6993-BD76-771A554168B6" localFKIndex="359E3ADF-375E-5354-F8D0-EA7BA65A22A6" name="LANCAMENTO_CONTA_FK">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 19:52:25 UTC</createdTime>
+<generatorID>B0F4C985-1829-F927-5DBF-6BDF4FF6EAA2</generatorID>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<referredTableLongName>CONTA</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>441CD080-70F9-0B00-E548-A9D2DBF3C7BA</referredTableID>
+<keyObject>7E5EED3A-3F4E-F45D-3916-B96A4E37006B</keyObject>
+<referredKeyID>7E5EED3A-3F4E-F45D-3916-B96A4E37006B</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>id_conta,USUARIO_id_usuario</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

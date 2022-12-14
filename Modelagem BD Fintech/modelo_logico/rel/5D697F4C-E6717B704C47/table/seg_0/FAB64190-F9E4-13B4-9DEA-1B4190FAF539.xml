@@ -1,0 +1,97 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="FAB64190-F9E4-13B4-9DEA-1B4190FAF539" name="RECEITA">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 19:52:25 UTC</createdTime>
+<generatorID>40BE77EB-6629-132E-C605-DC4FD877DA35</generatorID>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="id_receita" id="F428BBB9-69EB-328C-43D5-ADD2B0429D38">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 19:52:25 UTC</createdTime>
+<generatorID>9AC86A02-7ED3-157E-B25F-C4A0536F20B1</generatorID>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="LANCAMENTO_descricao" id="3BFA4D49-09D5-3B18-4F0B-247F7CC32BF5">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 19:52:25 UTC</createdTime>
+<generatorID>5FF12F71-9479-8946-354D-3CFF29EE12BD</generatorID>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>60</dataTypeSize>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="85DA7302-42CC-7687-85CC-3EA10A56FC60" referredColumn="C40573D2-ED9D-5189-D67A-DF52A22F4FF5"/>
+</associations>
+</Column>
+<Column name="LANC_CON_id_conta" id="F16788AE-FBA1-EF44-139A-0511B1D9C854">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 19:52:25 UTC</createdTime>
+<generatorID>D71E3670-CCEA-5E2F-9695-A2822108C4D4</generatorID>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="85DA7302-42CC-7687-85CC-3EA10A56FC60" referredColumn="3D986746-162F-E979-4BCE-D73FC05628A1"/>
+</associations>
+</Column>
+<Column name="LANC_CON_USUARIO_id_usuario" id="4D6E0798-44A3-1ABD-99CC-FFB6795A4D25">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 19:52:25 UTC</createdTime>
+<generatorID>C860E980-6D8E-8890-F758-477649392044</generatorID>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="85DA7302-42CC-7687-85CC-3EA10A56FC60" referredColumn="0EE80324-3A12-8567-6C90-52959FFDACFF"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="0F6D8B4E-5FA3-224E-AD76-F8DA755A5E68" name="RECEITA__IDX">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 19:52:25 UTC</createdTime>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<indexState>Unique Plain Index</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<relationGeneratorID>A5F85F9F-1139-EB52-3C25-649215082123</relationGeneratorID>
+<indexColumnUsage>
+<colUsage columnID="3BFA4D49-09D5-3B18-4F0B-247F7CC32BF5"/>
+<colUsage columnID="F16788AE-FBA1-EF44-139A-0511B1D9C854"/>
+<colUsage columnID="4D6E0798-44A3-1ABD-99CC-FFB6795A4D25"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="3461901E-AEDC-6B32-6B66-05C6C450835B" name="RECEITA_LANCAMENTO_FK">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 19:52:25 UTC</createdTime>
+<generatorID>A5F85F9F-1139-EB52-3C25-649215082123</generatorID>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="3BFA4D49-09D5-3B18-4F0B-247F7CC32BF5"/>
+<colUsage columnID="F16788AE-FBA1-EF44-139A-0511B1D9C854"/>
+<colUsage columnID="4D6E0798-44A3-1ABD-99CC-FFB6795A4D25"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

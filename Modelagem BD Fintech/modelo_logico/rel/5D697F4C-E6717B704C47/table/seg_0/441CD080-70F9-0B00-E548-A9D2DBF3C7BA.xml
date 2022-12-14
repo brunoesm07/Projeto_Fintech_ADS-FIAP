@@ -1,0 +1,97 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="441CD080-70F9-0B00-E548-A9D2DBF3C7BA" name="CONTA">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 19:52:25 UTC</createdTime>
+<generatorID>2D18CDBF-FF37-F380-BEFD-C527D0AC6914</generatorID>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="id_conta" id="8DD53B18-29AB-8461-64E4-5C671F96DFB7">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 19:52:25 UTC</createdTime>
+<generatorID>877FC430-885B-29BB-73BC-85676AC745B9</generatorID>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="balanco" id="58235A2D-3E2D-4CC7-8714-43CC0BD7B13B">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 19:52:25 UTC</createdTime>
+<generatorID>DA919CE7-EEF1-923E-21B5-FB2339C9747E</generatorID>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT021</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="saldo_receita" id="69290B60-AE88-97D6-5894-345833936D05">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 19:52:25 UTC</createdTime>
+<generatorID>7C3F13CD-E0B5-0451-C1D8-CB93FCE476A9</generatorID>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT021</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="saldo_despesa" id="37305C98-0EC6-E8A1-E11B-3A343B348FBD">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 19:52:25 UTC</createdTime>
+<generatorID>A2FA4612-5F05-5C0A-AD55-4137FD088F90</generatorID>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT021</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="USUARIO_id_usuario" id="5C62E991-1572-1425-4AFD-9A1183291904">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 19:52:25 UTC</createdTime>
+<generatorID>FF577489-66B7-D583-1503-357B8DA1FC26</generatorID>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="85C7CA88-5BAA-2512-0C03-5C8EA83058FC" referredColumn="63FB6BB3-3B0A-1214-7C9F-60AA0DBCE129"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="7E5EED3A-3F4E-F45D-3916-B96A4E37006B" name="CONTA_PK">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 19:52:25 UTC</createdTime>
+<generatorID>8A738C10-ED0B-2808-E958-9D919D372054</generatorID>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="8DD53B18-29AB-8461-64E4-5C671F96DFB7"/>
+<colUsage columnID="5C62E991-1572-1425-4AFD-9A1183291904"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="BA142271-5052-9553-DAC5-4C17EB0A210C" name="CONTA_USUARIO_FK">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 19:52:25 UTC</createdTime>
+<generatorID>A54F2BA8-6AD5-FC3A-7094-AF3FD8FCB527</generatorID>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="5C62E991-1572-1425-4AFD-9A1183291904"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

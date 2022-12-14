@@ -1,0 +1,128 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="6106134B-887F-0FD9-8E9C-1E75146489CE" name="LANCAMENTO">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 01:28:47 UTC</createdTime>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<engineerTo>
+<item key="5D697F4C-5788-93D4-F2F4-E6717B704C47" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="descricao" id="828C8B93-B491-7EDF-8D16-2F9C068A2BDB">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 01:28:58 UTC</createdTime>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<engineerTo>
+<item key="5D697F4C-5788-93D4-F2F4-E6717B704C47" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>60</dataTypeSize>
+<ownDataTypeParameters>60,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="dia" id="0BD44468-202A-E3C6-A0FC-BFB51D8C6EBA">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 01:29:29 UTC</createdTime>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<engineerTo>
+<item key="5D697F4C-5788-93D4-F2F4-E6717B704C47" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="categoria" id="C79B4997-8696-8EB8-900A-3298D117AE8B">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 01:29:55 UTC</createdTime>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<engineerTo>
+<item key="5D697F4C-5788-93D4-F2F4-E6717B704C47" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>60</dataTypeSize>
+<ownDataTypeParameters>60,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="valor" id="CD8EBCB8-1DDE-9CE8-DA6F-01A9F9F39013">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 01:31:21 UTC</createdTime>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<engineerTo>
+<item key="5D697F4C-5788-93D4-F2F4-E6717B704C47" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT021</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="anexo" id="A58AC0FC-C233-D41B-03CB-6392E2905005">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 01:31:45 UTC</createdTime>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<engineerTo>
+<item key="5D697F4C-5788-93D4-F2F4-E6717B704C47" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT010</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="id_conta" id="BCE1C58F-ECA6-7DB5-D44B-6005E39D53F0">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 01:36:45 UTC</createdTime>
+<generatorID>B0F4C985-1829-F927-5DBF-6BDF4FF6EAA2</generatorID>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<engineerTo>
+<item key="5D697F4C-5788-93D4-F2F4-E6717B704C47" value="true"/>
+</engineerTo>
+<referedAttribute>877FC430-885B-29BB-73BC-85676AC745B9</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="id_usuario" id="13A6B660-D8D3-38CF-E228-0FB7E38482D3">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 01:36:45 UTC</createdTime>
+<generatorID>B0F4C985-1829-F927-5DBF-6BDF4FF6EAA2</generatorID>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<engineerTo>
+<item key="5D697F4C-5788-93D4-F2F4-E6717B704C47" value="true"/>
+</engineerTo>
+<referedAttribute>FF577489-66B7-D583-1503-357B8DA1FC26</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="E28967D3-F52C-3A90-21DB-BB0B7B3BBA74" name="LANCAMENTO PK">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 01:29:10 UTC</createdTime>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<shouldEngineer>false</shouldEngineer>
+<engineerTo>
+<item key="5D697F4C-5788-93D4-F2F4-E6717B704C47" value="false"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>828C8B93-B491-7EDF-8D16-2F9C068A2BDB</attributeRef>
+<attributeRef>BCE1C58F-ECA6-7DB5-D44B-6005E39D53F0</attributeRef>
+<attributeRef>13A6B660-D8D3-38CF-E228-0FB7E38482D3</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

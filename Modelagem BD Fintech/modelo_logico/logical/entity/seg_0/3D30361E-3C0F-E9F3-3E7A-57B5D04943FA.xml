@@ -1,0 +1,84 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="3D30361E-3C0F-E9F3-3E7A-57B5D04943FA" name="USUARIO">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 01:21:11 UTC</createdTime>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<engineerTo>
+<item key="5D697F4C-5788-93D4-F2F4-E6717B704C47" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="id_usuario" id="F4419110-7E52-2CB9-CA66-ED9513784385">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 01:21:52 UTC</createdTime>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<engineerTo>
+<item key="5D697F4C-5788-93D4-F2F4-E6717B704C47" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="nome" id="92A2472F-BC5C-82EA-EB70-59517994A59F">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 01:24:28 UTC</createdTime>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<engineerTo>
+<item key="5D697F4C-5788-93D4-F2F4-E6717B704C47" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>60</dataTypeSize>
+<ownDataTypeParameters>60,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="email" id="0FD23F73-81D3-7579-A504-4AFB8E59EBCA">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 01:25:00 UTC</createdTime>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<engineerTo>
+<item key="5D697F4C-5788-93D4-F2F4-E6717B704C47" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>60</dataTypeSize>
+<ownDataTypeParameters>60,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="senha" id="22F6C430-170D-E755-2B5C-A5E7F975CA02">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 01:25:20 UTC</createdTime>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<engineerTo>
+<item key="5D697F4C-5788-93D4-F2F4-E6717B704C47" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>16</dataTypeSize>
+<ownDataTypeParameters>16,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="B106205A-1D8D-682E-B4A3-E0AFB8E096BD" name="USUARIO PK">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 01:22:06 UTC</createdTime>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<engineerTo>
+<item key="5D697F4C-5788-93D4-F2F4-E6717B704C47" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>F4419110-7E52-2CB9-CA66-ED9513784385</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

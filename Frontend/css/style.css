@@ -1,0 +1,130 @@
+/*Geral*/
+body {
+  background-color: #EAD0FF;
+  font-family: helvetica, sans-serif;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+.navbar {
+  background-color: #875AC0;
+  color: #fff;
+}
+
+.bi-house {
+  font-size: 1.5rem;
+  padding-left: 1rem;
+}
+
+.bi-plus-circle {
+  font-size: 4rem;
+  color: #DCB0FF;
+}
+
+.bi-three-dots {
+  font-size: 1.5rem;
+  padding-right: 1rem;
+}
+
+/*Dashboard*/
+.texto-externo {
+  color: #875AC0;
+  padding-top: 15px;
+  margin-bottom: 5px;
+}
+
+.categoria {
+  text-align: justify;
+  padding-top: 15px;
+}
+
+.titulo-home {
+  color: #875AC0;
+  padding: 15px;
+  font-weight: bold;
+}
+
+.bi-person-square {
+  font-size: 2rem; 
+  color: #875AC0;
+}
+
+.bi-arrow-up-circle {
+  color: #73B761; 
+  font-size: 2rem; 
+  float: left;
+}
+
+.saldo {
+  font-size: 0.8rem;
+}
+
+.saldoR {
+  font-size: 0.8rem;
+  color: #73B761;
+  font-weight: bold;
+  margin-top: -18px
+}
+
+.bi-arrow-down-circle {
+  color: #DE0000; 
+  font-size: 2rem; 
+  float: left
+}
+
+.saldoD {
+  font-size: 0.8rem;
+  color: #DE0000;
+  font-weight: bold;
+  margin-top: -18px
+}
+
+.bi-pie-chart-fill {
+  color: #FFCF4D; 
+  font-size: 6rem; 
+  float: center
+}
+
+/*Adicionar despesas*/
+.body-despesa {
+  background-color: #DE0000;
+  color: #ffff;
+  margin-top: 15px;
+}
+
+.container-btn {
+  text-align: center;
+}
+
+.btn-despesa {
+  background-color: #F40707;
+  border-radius: 10px;
+  border-color: #F40707;
+  color: #ffff;
+  padding: 0 0.8rem 0 0.8rem
+}
+
+.form-btn {
+  text-align: center
+}
+
+.container-form {
+  color: #F40707;
+  border-radius: 25px;
+  margin: 10px;
+  padding: 20px;
+  background-color: #ffff
+}
+
+.btn-salvar-1 {
+  background-color: #F40707;
+  border-radius: 10px;
+  border-color: #F40707;
+  color: #ffff;
+  font-size: 1.1rem;
+  font-weight: bold;
+  padding: 0 0.8rem 0 0.8rem
+}
+

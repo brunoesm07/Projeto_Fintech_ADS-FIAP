@@ -1,0 +1,73 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="ABBF8DD8-4239-7DC4-1989-61417AAD5823" name="DESPESA">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 01:32:28 UTC</createdTime>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<engineerTo>
+<item key="5D697F4C-5788-93D4-F2F4-E6717B704C47" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="id_despesa" id="9F9393B9-0678-69D7-3E17-6C685AE9A0D9">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 01:32:53 UTC</createdTime>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<engineerTo>
+<item key="5D697F4C-5788-93D4-F2F4-E6717B704C47" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="descricao" id="249256B2-970C-5651-B655-4FE87F01E8F1">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 01:38:38 UTC</createdTime>
+<generatorID>E96B349B-EB54-8A45-6EBD-FBE483DCBE67</generatorID>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<engineerTo>
+<item key="5D697F4C-5788-93D4-F2F4-E6717B704C47" value="true"/>
+</engineerTo>
+<referedAttribute>828C8B93-B491-7EDF-8D16-2F9C068A2BDB</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="id_conta" id="B7CE4B84-4E41-80E0-2E5F-EEB0FA385E4F">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 01:38:38 UTC</createdTime>
+<generatorID>E96B349B-EB54-8A45-6EBD-FBE483DCBE67</generatorID>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<engineerTo>
+<item key="5D697F4C-5788-93D4-F2F4-E6717B704C47" value="true"/>
+</engineerTo>
+<referedAttribute>BCE1C58F-ECA6-7DB5-D44B-6005E39D53F0</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="id_usuario" id="6A6A4C5C-27DD-065D-11E0-1386312403D6">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 01:38:38 UTC</createdTime>
+<generatorID>E96B349B-EB54-8A45-6EBD-FBE483DCBE67</generatorID>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<engineerTo>
+<item key="5D697F4C-5788-93D4-F2F4-E6717B704C47" value="true"/>
+</engineerTo>
+<referedAttribute>13A6B660-D8D3-38CF-E228-0FB7E38482D3</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+</Entity>

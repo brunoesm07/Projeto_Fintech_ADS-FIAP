@@ -1,0 +1,96 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="2D18CDBF-FF37-F380-BEFD-C527D0AC6914" name="CONTA">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 01:25:57 UTC</createdTime>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<engineerTo>
+<item key="5D697F4C-5788-93D4-F2F4-E6717B704C47" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="id_conta" id="877FC430-885B-29BB-73BC-85676AC745B9">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 01:26:12 UTC</createdTime>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<engineerTo>
+<item key="5D697F4C-5788-93D4-F2F4-E6717B704C47" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="balanco" id="DA919CE7-EEF1-923E-21B5-FB2339C9747E">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 01:26:47 UTC</createdTime>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<engineerTo>
+<item key="5D697F4C-5788-93D4-F2F4-E6717B704C47" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT021</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="saldo_receita" id="7C3F13CD-E0B5-0451-C1D8-CB93FCE476A9">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 01:27:25 UTC</createdTime>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<engineerTo>
+<item key="5D697F4C-5788-93D4-F2F4-E6717B704C47" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT021</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="saldo_despesa" id="A2FA4612-5F05-5C0A-AD55-4137FD088F90">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 01:27:52 UTC</createdTime>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<engineerTo>
+<item key="5D697F4C-5788-93D4-F2F4-E6717B704C47" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT021</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="id_usuario" id="FF577489-66B7-D583-1503-357B8DA1FC26">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 01:35:17 UTC</createdTime>
+<generatorID>A54F2BA8-6AD5-FC3A-7094-AF3FD8FCB527</generatorID>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<engineerTo>
+<item key="5D697F4C-5788-93D4-F2F4-E6717B704C47" value="true"/>
+</engineerTo>
+<referedAttribute>F4419110-7E52-2CB9-CA66-ED9513784385</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="8A738C10-ED0B-2808-E958-9D919D372054" name="CONTA PK">
+<createdBy>Usuario</createdBy>
+<createdTime>2022-11-09 01:26:20 UTC</createdTime>
+<ownerDesignName>modelo_logico</ownerDesignName>
+<engineerTo>
+<item key="5D697F4C-5788-93D4-F2F4-E6717B704C47" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>877FC430-885B-29BB-73BC-85676AC745B9</attributeRef>
+<attributeRef>FF577489-66B7-D583-1503-357B8DA1FC26</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

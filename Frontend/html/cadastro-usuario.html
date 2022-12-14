@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contabilivre</title>
+    <link rel="stylesheet" href="../css/cadastro.css">
+</head>
+<body>
+    <div id="main-container">
+        <h1>Contabilivre</h1>
+        <form id="register-form" action="" method="post">
+            <div class="full-box">
+                <label for="email">E-mail</label>
+                <input type="email" name="email" id="email" placeholder="exemplodeemail@contailivre.com" data-min-length="2" data-email-validate data-required>
+            </div>
+            <div class="half-box spacing">
+                <label for="name">Nome</label>
+                <input type="text" name="name" id="name" placeholder="Digite o seu nome" data-required data-min-length="3" data-max-length="16">
+            </div>
+            <div class="half-box">
+                <label for="lastname">Sobrenome</label>
+                <input type="text" name="lastname" id="lastname" placeholder="Digite o seu sobrenome" data-required data-min-length="3" data-only-letters>
+            </div>
+            <div class="half-box spacing">
+                <label for="phone">Telefone</label>
+                <input type="tel" name="phone" id="phone" placeholder="Digite o seu telefone" data-required data-only-numbers>
+            </div>
+            <div class="half-box">
+                <label for="bday">Data de Nascimento</label>
+                <input type="date" name="bday" id="bday" placeholder="Digite a data de nascimento" data-required>
+            </div>
+            <div class="full-box">
+                <input type="submit" id="btn-submit" value="Criar nova conta">
+            </div>              
+        </form>
+        <a href="login.html"><p class="form-rodape">Retornar para a pagina de login</p></a>
+    </div>
+    
+</body>
+</html>

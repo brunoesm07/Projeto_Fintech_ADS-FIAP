@@ -71,3 +71,7 @@ Nessa fase trabalhamos com a tríade base do desenvolvimento Web: HTML5, CSS3 (c
 <h3>Fase 5 - OOP</h3>
 
 Essa fase corresponde à Programação Orientada a Objetos. Um dos principais objetivos desta fase é a programação com Java, aplicando o conhecimento no desenvolvimento do sistema Fintech.
+
+<ul>
+<li><a href="https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/tree/main/Diagrama%20de%20Classe%20para%20Fintech">Diagrama de Classe</a></li>
+</ul>

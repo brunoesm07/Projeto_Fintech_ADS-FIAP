@@ -2,7 +2,7 @@
 <h1 align="center"> Projeto Fintech (ADS-FIAP) </h1>
 
 
-Projeto individual elaborado por mim ao longo do primeiro periodo de Análise e Desenvolvimento de Sistemas na Faculdade FIAP. </br> </br>
+Projeto individual elaborado por mim ao longo do primeiro ano de Análise e Desenvolvimento de Sistemas na Faculdade FIAP. </br> </br>
 ![Badge Projeto Academico](https://img.shields.io/static/v1?label=projeto&message=academico&color=brightgreen) ![Badge Inicio](https://img.shields.io/static/v1?label=inicio&message=agosto2022&color=yellowgreen) ![Badge Status](https://img.shields.io/static/v1?label=status&message=em%20desenvolvimento&color=yellow)
 
 </br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 

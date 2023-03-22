@@ -75,3 +75,12 @@ Essa fase corresponde à Programação Orientada a Objetos. Um dos principais ob
 <ul>
 <li><a href="https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/tree/main/Diagrama%20de%20Classe%20para%20Fintech">Diagrama de Classe</a></li>
 </ul>
+
+<h3>Fase 6 - Model</h3>
+
+Nessa fase são aprendidas técnicas para materializar os modelos em estruturas físicas. Utilização do SGBD Oracle, recuperação de dados, exploração da linguagem Java e tratamento de exceções, boas práticas de programação e integração da aplicação ao banco de dados.
+
+
+
+
+

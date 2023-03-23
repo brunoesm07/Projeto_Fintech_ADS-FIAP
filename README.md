@@ -74,6 +74,7 @@ Essa fase corresponde à Programação Orientada a Objetos. Um dos principais ob
 
 <ul>
 <li><a href="https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/tree/main/Diagrama%20de%20Classe%20para%20Fintech">Diagrama de Classe</a></li>
+<li><a href="https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/tree/main/Java%20Fase%205">Classes em Java</a></li>
 </ul>
 
 <h3>Fase 6 - Model</h3>

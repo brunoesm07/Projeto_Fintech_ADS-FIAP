@@ -14,9 +14,9 @@ Projeto individual elaborado por mim ao longo do primeiro ano de Análise e Dese
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> 
-<a href="https://www.java.com/pt-BR/download/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
 
-<h3>Fase 1 - Development Environment</h3>
+<h2>Fase 1 - Development Environment</h2>
 <p>Ao longo dessa fase adquirimos conhecimentos e técnicas para iniciar um projeto ágil de desenvolvimento de uma app. Estudamos os primeiros passos na construção de um software, praticas ageis como SCRUM e tecnicas de levantamento de requisitos. Tambem fomos desafiados a elaborar o Documento Visão, a partir do Modelo de Moore (Elevator Pitch), que dará origem ao Product Backlog do nosso projeto; e desenvolver nosso primeiro draft de User Story Mapping. </p>
 
 <p>Ainda na Fase 1, desenvolvemos o Termo de Abertura do Projeto e construimos a infraestrutura necessaria para que o desenvolvedor (eu | aluno) possa elaborar todo o restante. Dessa forma, instalei os seguintes softwares: Java SDK, Eclipse, Apache Tomcat, Oracle SQL Data Modeler e SQL Developer, Python, Postman, Visual Studio Code e NodeJS</p>
@@ -30,7 +30,7 @@ Projeto individual elaborado por mim ao longo do primeiro ano de Análise e Dese
 <li>Termo de Abertura - Formulario de Definicao da Infraestrutura do Projeto</li>
 </ul>
 
-<h3>Fase 2 - Prototyping</h3>
+<h2>Fase 2 - Prototyping</h2>
 
 <p>Ao longo da Fase 2 avançaremos com a documentação do projeto do sistema. Aprenderemos mais sobre gerenciamento de tempo e custos e construiremos o protótipo do sistema Fintech, na forma de <i>wireframes</i> ou desenhos para definir como serão as telas.</p>
 
@@ -46,7 +46,7 @@ Projeto individual elaborado por mim ao longo do primeiro ano de Análise e Dese
 <li><a href="https://www.figma.com/proto/kEolXTRo4BhvPDdAZy4FBL/Wireframes-Fintech?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2">Prototype</a></li>
 </ul>
 
-<h3>Fase 3 - Modeling</h3>
+<h2>Fase 3 - Modeling</h2>
 
 <p>Modelagem e estruturação de Banco de Dados: Modelo de Entidade de Relacionamento, Agregação, Normalização, Modelo Físico. Entendemos como utilizar um banco de dados, seus métodos e boa práticas de como armazenar os dados.</p>
 <p>Manipulação de dicionários e arquivos com Python. Ao longo dessa fase continuamos desenvolvendo habilidades em lógica de programação com a linguagem Python.</p>
@@ -58,7 +58,7 @@ Projeto individual elaborado por mim ao longo do primeiro ano de Análise e Dese
 <li><a href="https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/blob/main/Modelagem%20BD%20Fintech/Scripts%20SQL.ddl">Scripts SQL</a></li>
 </ul>
 
-<h3>Fase 4 - View</h3>
+<h2>Fase 4 - View</h2>
 
 O grande objetivo dessa fase é abordar a visão de sistema, ou seja, a camada de programação mais proxima da interface do sistema com o usuário. Trabalhamos também com a conexão com os usuários através de chatbots utilizando IBM Watson.
 
@@ -68,7 +68,7 @@ Nessa fase trabalhamos com a tríade base do desenvolvimento Web: HTML5, CSS3 (c
 <li><a href="https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/tree/main/Frontend">Frontend</a></li>
 </ul>
 
-<h3>Fase 5 - OOP</h3>
+<h2>Fase 5 - OOP</h2>
 
 Essa fase corresponde à Programação Orientada a Objetos. Um dos principais objetivos desta fase é a programação com Java, aplicando o conhecimento no desenvolvimento do sistema Fintech.
 
@@ -77,7 +77,7 @@ Essa fase corresponde à Programação Orientada a Objetos. Um dos principais ob
 <li><a href="https://github.com/brunoesm07/Projeto_Fintech_ADS-FIAP/tree/main/Java%20Fase%205">Classes em Java</a></li>
 </ul>
 
-<h3>Fase 6 - Model</h3>
+<h2>Fase 6 - Model</h2>
 
 Nessa fase são aprendidas técnicas para materializar os modelos em estruturas físicas. Utilização do SGBD Oracle, recuperação de dados, exploração da linguagem Java e tratamento de exceções, boas práticas de programação e integração da aplicação ao banco de dados.
 
